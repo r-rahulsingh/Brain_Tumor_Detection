@@ -22,4 +22,4 @@ Formulating the Hypothesis:
 * Primary Hypothesis: A well-architected CNN will be able to classify MRI images into 'tumor' or 'no tumor' categories with an accuracy exceeding that of current baseline methods.
 * Secondary Hypothesis: The CNN's diagnostic assistance will reduce the time required for radiological assessments without compromising, and potentially improving, diagnostic reliability.
 
-
+* Brain Tumor Dataset Link : https://figshare.com/articles/dataset/brain_tumor_dataset/1512427?file=3381290
